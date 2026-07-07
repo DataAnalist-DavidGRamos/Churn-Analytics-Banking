@@ -47,7 +47,7 @@ Cada hallazgo gráfico fue convertido bajo el estándar **C $\rightarrow$ F $\ri
 ---
 
 ## 📁 4. Artefactos Entregados en este Repositorio
-* `/notebooks/Banca1_corregido.ipynb`: Código ejecutable documentado paso a paso con comentarios técnicos avanzados para QA.
+* `/notebooks/PROYECTO_CHURN_BANCARIO.ipynb`: Código ejecutable documentado paso a paso con comentarios técnicos avanzados para QA.
 * `/data/datos_banco_consolidado.csv`: Dataset físico unificado y congelado para garantizar la reproducibilidad exacta en cualquier entorno local.
 * `/docs/registro_cambios_qa.md`: Diccionario de datos y bitácora técnica de decisiones de imputación.
 
