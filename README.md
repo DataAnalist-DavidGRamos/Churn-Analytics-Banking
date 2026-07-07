@@ -58,3 +58,15 @@ Cada hallazgo gráfico fue convertido bajo el estándar **C $\rightarrow$ F $\ri
 * **Rigor Estadístico:** Selección de metodologías de limpieza y visualización correctas según el tipo y distribución de la variable.
 * **Ingeniería de Datos Básica:** Implementación de flujos de persistencia de archivos (`os.path.exists`) para prevenir la volatilidad de datos en la nube.
 * **Código Limpio y Auditable:** Documentación y comentarios exhaustivos para facilitar la gobernanza de datos y el mantenimiento del pipeline.
+
+```
+📦 proyecto-churn-bancario
+ ┣ 📂 data
+ ┃ ┣ 📄 datos_banco_consolidado.csv     # 💾 El dataset fijo que exportaremos para asegurar consistencia
+ ┃ ┗ 📝 diccionario_datos.md            # 📖 Glosario con la definición de cada variable
+ ┣ 📂 docs
+ ┃ ┗ 📝 registro_cambios_qa.md          # 🛡️ Bitácora de limpieza (Sentinel -> Dominio -> IQR)
+ ┣ 📂 notebooks
+ ┃ ┗ 📓 Banca1_corregido.ipynb          # 🧠 El Jupyter Notebook con todo tu código y análisis
+ ┗ 📝 README.md                         # 🌟 El escaparate principal de tu proyecto
+ ```
