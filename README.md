@@ -67,6 +67,6 @@ Cada hallazgo gráfico fue convertido bajo el estándar **C $\rightarrow$ F $\ri
  ┣ 📂 docs
  ┃ ┗ 📝 registro_cambios_qa.md          # 🛡️ Bitácora de limpieza (Sentinel -> Dominio -> IQR)
  ┣ 📂 notebooks
- ┃ ┗ 📓 Banca1_corregido.ipynb          # 🧠 El Jupyter Notebook con todo tu código y análisis
+ ┃ ┗ 📓 PROYECTO_CHURN_BANCARIO.ipynb   # 🧠 El Jupyter Notebook con todo tu código y análisis
  ┗ 📝 README.md                         # 🌟 El escaparate principal de tu proyecto
  ```
