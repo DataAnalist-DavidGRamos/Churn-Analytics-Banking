@@ -70,3 +70,8 @@ Cada hallazgo gráfico fue convertido bajo el estándar **C $\rightarrow$ F $\ri
  ┃ ┗ 📓 PROYECTO_CHURN_BANCARIO.ipynb   # 🧠 El Jupyter Notebook con todo tu código y análisis
  ┗ 📝 README.md                         # 🌟 El escaparate principal de tu proyecto
  ```
+
+### AUTOR:
+David Germán Ramos Rodríguez
+[LinkedIn](https://www.linkedin.com/in/david-g-ramos/) | 
+[Sitio Web](https://dataanalist-davidgramos.github.io/mi-sitio-web/)
